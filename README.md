@@ -4,6 +4,9 @@
 
 ## Build Setup
 
+![image](http://upload-images.jianshu.io/upload_images/3977426-33eea25edefe51c7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](http://upload-images.jianshu.io/upload_images/3977426-4ad3bbd217bab0a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ``` bash
 # install dependencies
 npm install
